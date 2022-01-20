@@ -43,7 +43,7 @@ work together with a broad community of interdisciplinary scholars to discuss da
 
 1. **Introduction to Data Science **
     - A brief overview of what data science is and the models that it uses.
-    - Examples of data science from real life.
+    - Examples of data science from real life!
     
 2. **Data Principles and Practices: Processing, Cleaning, Visualizing**
     - Where does data come from? Where does data go? Where does data come from, Cotton Eye'd Joe?
